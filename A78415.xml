@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A caveat for knaves.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78415</idno>
+            <idno type="STC">Wing C1611</idno>
+            <idno type="STC">Thomason E451_45</idno>
+            <idno type="STC">ESTC R205303</idno>
+            <idno type="EEBO-CITATION">99864715</idno>
+            <idno type="PROQUEST">99864715</idno>
+            <idno type="VID">161951</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78415)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161951)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E451[45])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A caveat for knaves.</title>
+               </titleStmt>
+               <extent>[2], 8 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>A satire on the Parliament and Army (Thomason).</note>
+                  <note>P. 6 misnumbered 8.</note>
+                  <note>Annotation on Thomason copy: "July 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Humor --  Early works to 1800.</term>
+               <term>Political satire, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161951:1" rendition="simple:additions"/>
+            <p>A CAVEAT FOR KNAVES.</p>
+            <lg>
+               <l>
+                  <hi>You pearleſse Peeres, that ſit in Parliament,</hi>
+               </l>
+               <l>
+                  <hi>as many of you as have Traitors been,</hi>
+               </l>
+               <l>
+                  <hi>Beware least that too late you do repent</hi>
+               </l>
+               <l>
+                  <hi>your unjuſt dealings with your ſoveraign King.</hi>
+               </l>
+               <l>
+                  <hi>Let all of you upon your knees fall down,</hi>
+               </l>
+               <l>
+                  <hi>and re-inthrone him with his Princely Crown;</hi>
+               </l>
+               <l>
+                  <hi>So may you gaine free pardon for your lives,</hi>
+               </l>
+               <l>
+                  <hi>and live in peace, whence plenty will ariſe.</hi>
+               </l>
+            </lg>
+            <p>Printed in the Yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161951:2"/>
+            <pb n="1" facs="tcp:161951:2"/>
+            <head>
+               <hi>A</hi> CAVEAT FOR KNAVES:</head>
+            <p>THere hath been an old ſaying of a great while ſince, that <hi>the World runs upon wheels,</hi> which were it true, then every ſpoke (as we call it) would have his part, and bear his part; but I beleeve that it rather runnes like a Crab, al upon one ſide, as it hath done the time of an Ap<g ref="char:EOLhyphen"/>prentiſhip with the Parliament; and now Sir is not the Par<g ref="char:EOLhyphen"/>liament the world, or is the Independent Army, that hath of a long time over-aw'd and tutor'd the Parliament, the world; or is Mrs. <hi>London</hi> that hath by her ſtretched out Purſe to main<g ref="char:EOLhyphen"/>taine them both, the world; as for my part, if you will have my opinion, they are all as one, they are joynt partners in the world, and cannot be ſevered, but as one body they carry on this wicked world at their pleaſure, and not one body alone, but three bodyes, and as they are three bodyes, yet there is but one head, that is, the Head Parliament, why yes there is the
+<pb n="2" facs="tcp:161951:3"/>head Army too, I and the head <hi>London</hi> purſe too, and what can either of them do one without the other? for whatſoever the head Purſe doth, or what the head Army, although a holy ſanctified ſaintly one, doth do, or pretend to have done, will come to nothing without the head Parliament concur, and by her Vote or Ordinance make good: and ſo <hi>I</hi> conclude that the Parliament is the head, purſe <hi>London</hi> the bit or <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>naffle in the mouth of the ſame head, and the Army the raines to governe that head, and ſo there is no other now viſible head to governe this wicked Kingdom, but theſe three in one head. And I truly for my part muſt confeſſe that this wicked Kingdom hath bin too long, and too much governed by this triple headed <hi>Hidron</hi> or in plainer tearms, this three headed monſter, for in my ſmal judgement, there are none but monſters that will run on head<g ref="char:EOLhyphen"/>long in wickedneſſe, and never look beck unto the great God who ſhould be all our heads, nor unto their King, who imme<g ref="char:EOLhyphen"/>diately under God ſhould be our chiefe head, or unto their old head the true long profeſt Proteſtant Religion, which ſo long time hath flouriſhed in <hi>England:</hi> But now alaſſe this head Par<g ref="char:EOLhyphen"/>liament is broken, their wicked ulcers of Rebellion and extor<g ref="char:EOLhyphen"/>tion, ſtink in the noſtrils of men and there is no balm in <hi>Gilead</hi> to be adminiſtred unto them, nor no plaiſter, but his Majeſties royall Pardon to cure this broken head; then unto him that we have ſo rebelled againſt, and have moſt offended, and moſt in<g ref="char:EOLhyphen"/>juriouſly wronged, let us now fly for ſuccour, and inſtead of ropes about our necks, preſent repentent ſorrow in our hearts, crave pardon for our lives, and hazzard the loſſe of our eſtates, (which if wee do) it will be greater mercy and favour than ever we deſerved, having not ſhown neither to him nor his the like favour, but he is mercifull, his mercy will exceed our inhumane cruelty: But ſtay, let us firſt ſee how far our power will ſtretch, and our purſe and perſwaſions of our party will ſerve to pleaſure us, and to continue warre a little longer, and maintain our Kingly places, let us continue, blinding the king<g ref="char:EOLhyphen"/>dom as long as we are able, with dallience and delayes, ſue for Petitioners in private, and then anſwer them and all other at
+<pb n="3" facs="tcp:161951:3"/>our own pleaſure, put them off with the accuſtomed phraſe of rendring them thanks for their continuall reſpect towards the houſes, and tell them we are uſing al waies and means we can for the ſetling of a ſafe, and wel-grounded Peace; or ſatisfie them as we did the Commanders of the rained-bands of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> that we will heare what the Common-Councell ſaieth in their behalfe, and whether they are of the ſame mind; and then if they be, we wil ſpeedily give you an Anſwer at our owne leaſure: but firſt let us ſee how we ſhall be ſecured by them, to ſit ſafe in our Kingly places, and alſo under pretence of caring for the King, let us require from them the ſafety of his Maje<g ref="char:EOLhyphen"/>ſties perſon in <hi>London,</hi> and that there may be a viſible way pre<g ref="char:EOLhyphen"/>ſcribed for it, and then wee wil conſider of a way to ſend for him: and in the mean ſpace we ſhal ſee what our juggling Me<g ref="char:EOLhyphen"/>phoſtapholiſſes wil doe for us, our flying ſpirits that we have employed both a broad and at home, how they will prevaile in their perſwations, and what forces may be raiſed for our ſafety, and deſending of our evill cauſe, we are ſure that the Independent party will riſe for us both abroad and at home, for they are as deeply concerned in the danger as our ſelves, and if Purſe <hi>London</hi> wil be brought to continue our freind ſt<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, wee may chance to continue our Kingly power; we have to this purpoſe made an Ordinance already, giving powes u<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o Major Generall <hi>Skipton,</hi> to uſe what meanes hee may to raiſe what forces he can in and about <hi>London,</hi> to ſu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>due the Royall party hereabouts, or as many of them as he can c<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tch, <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to kill, hang, or murther them at his pleaſu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e not asking the Lord leave, nor uſe any mercy at all: and indeed <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> no great marvaile that you ſhould now continue mercileſſ <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> practiſed nothing but cru<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lty ſo long a time; but <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the word of God, <hi>do as th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u wilt be do<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e unto</hi> and it <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> then remember the old Proverb, <hi>harm watch, ha<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> look what you have done, will be done to you <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> though you be three heads yet (<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and great <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ber whoſe heads you are, and unto whom <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> heads, and muſt give an account, and if you be not <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:161951:4"/>then ſee your own errours, ſee with a judicious eye, the wo<g ref="char:EOLhyphen"/>full miſeries that you have brought this poor Kingdome unto already, and the miſerable conditions that this poor diſtreſſed Kingdom is like to fall into, by your overſwaying, unlimited powers, nay if you will ever take warning, and looke about you, now is the time, take heed, beware of a relapſe, for if you perſiſt, you are gone, therefore dally no longer, ſend for His Majeſty without delay, provide for him with honour, free<g ref="char:EOLhyphen"/>dom and ſafety, grant him his deſires, let him have his owne guard, and his own attendents, freely without compulſion, let him treate with you face to face, or with as many of you as dare to look him in the face: do you not ſee the eminent dan<g ref="char:EOLhyphen"/>ger that you are in? do you not ſee deſtruction before your face? your own houſes devided, nay ſome of your houſholds devided one againſt another, the Kingdome in generall riſen up againſt you, all Chriſtian Princes deriding you, the Sea<g ref="char:EOLhyphen"/>men ſcorning to do you any more ſervice, Purſe <hi>London</hi> ſha<g ref="char:EOLhyphen"/>king you off by degrees, refuſing to diſgorge any more bags to ſupport you any longer, <hi>London</hi> Trained-bands ready to for<g ref="char:EOLhyphen"/>ſake you, your deare brethren the <hi>Scots</hi> ready to devoure you, for falſifying your Oath to your King, your Covenant with them and the two Kingdomes, and the ſevere judgement of God, threatning ruin and deſtruction for your damnable de<g ref="char:EOLhyphen"/>villiſh dealings, upon this moſt miſerable kingdome; and if none of theſe will prevaile, then looke unto the handy-worke of the Lord, in raiſing ſuch ſuddain and unexpected Armies in his Majeſties behalfe, the unthought of ſtore of Arms and Am<g ref="char:EOLhyphen"/>munition, the multitude of Garriſons taken and rendred up for the Kings Royal Majeſties uſe, the multitude of Shipping, the fortunate ſucceſſes that his Majeſties ſmal forces have con<g ref="char:EOLhyphen"/>tinunally had, if truth might bee believed, and right take place, which will be hard for to make the world to believe, they have been ſo long blinded with lyes, however it is now viſible to us here, by the multitude of your maimed Souldiers that are brought into the Hoſpitals in <hi>London,</hi> that there hath been many of your Saints cut off, your invincible Army is
+<pb n="5" facs="tcp:161951:4"/>much weakned, your Saints are amazed, your wounded men curſe ye, and vow that were they as well as ever they were they would never ſerve you, your ſound men wiſh that they had but half their Arreares, they would curſe you to your face, and tell you that you are but blind guides, and have been the ruinning of many a ſoul; and if your freinds reward you thus, what ſhall you exſpect from thoſe that you call your enemies? and at the latter daies what may you exſpect from the juſt ſe<g ref="char:EOLhyphen"/>vere God? But you are Saints, whether God will or not, and you will make the world believe that God gives you a daily bleſſing, or elſe your intelligence lyeth, with great Victories, <hi>Langdale</hi> hee is totally routed, and the party that was in <hi>Lin<g ref="char:EOLhyphen"/>colnſhire</hi> for the King clean diſperſt, not two to be ſeen toge<g ref="char:EOLhyphen"/>ther, ask <hi>Walkers imperfect Occurrence</hi> elſe, and he ſhall make al the world to believe it, the <hi>Scots</hi> too they are ſo far together by the eares themſelves, that they cannot come in againſt us, have not we Letters daily to that effect? Yes I muſt needs confeſſe that you have Letters as from thence, although made in the Inner-Temple; for I will juſtify that one Gentleman there made three Letters himſelfe in one day, and they muſt come from <hi>Scotland:</hi> and are not all theſe routing Letters of the ſame ſtamp? how can there be 4000 Souldiers ſpared out of <hi>Lancaſhire</hi> to recruite <hi>Lambert?</hi> when it is not able to with<g ref="char:EOLhyphen"/>ſtand the Lord of <hi>Darbies</hi> forces that is now there: and what County is there in <hi>England</hi> now, that you may ſpare any out, or that is able to defend themſelves? and for believing expe<g ref="char:EOLhyphen"/>rience look here at home into every county about you, and you ſhall plainly ſee the good affection of them unto their King, and ſo by theſe you may plainly diſcern the reſt; they are not meane men that are the Leaders of them neither, as yours are, Brewers, Shoomakers, Tailors, Weavers, Tinkers, Coblers, but they are Dukes, Earles, Lords, Knights, Gentlemen, and Commanders moſt of them, and as ſoon as ever th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the Prince is once ſeen to ſet foot in <hi>England,</hi> how many thouſands more in <hi>England</hi> will there then appeare and riſe againſt you? ô yee of little faith, it is not the Independent Army, nor the ſo many
+<pb n="8" facs="tcp:161951:5"/>thouſand hands that you have preſented unto you to have no King, nor no Perſonall Treaty, that can defend you, nor all the Devils in hell to boot to help you, if the Lord but once lift up his hand againſt you, as you may now apparently ſee he begins to doe, by ſtirring up the hearts of all the Country againſt, and for every thouſand of Independents that ſtick unto you, you will have five thouſand of good Chriſtians againſt you, and therefore repent and amend, leaſt it bee too late, and the Devill teare you in pieces.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
